@@ -9,7 +9,7 @@
 [![yusuyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuyeon1111&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
  
 <br>
-<div align="center">
+
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -62,4 +62,4 @@
   >HEF  (팀 프로젝트)  
 >개발 기간: 2023.11.22 ~ 2023.12.8  
 
-</div>
+
