@@ -19,7 +19,9 @@
     <a href="https://open.kakao.com/o/sB8nJYYf">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
-    
+    <a href="https://velog.io/@sysy0311/posts">
+        <img src="https://img.shields.io/badge/velog-#20C997?style=for-the-badge&logoColor=white&logo=velog"> 
+    </a>
 </div><br>
     
 ## 🔨 Once I've used 🔨
