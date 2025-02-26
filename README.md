@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
     <a href="https://velog.io/@sysy0311/posts">
-        <img src="https://img.shields.io/badge/velog-#20C997?style=for-the-badge&logoColor=white&logo=velog"> 
+        <img src="https://img.shields.io/badge/Velog-#20C997?style=for-the-badge&logoColor=white&logo=Velog"> 
     </a>
 </div><br>
     
