@@ -61,16 +61,21 @@
 </div>
 
 ## 📌 [my portfolio](https://github.com/yusuyeon1111/portfolio.git)
-
-### 📌 1. [핵심 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject.git)
-  >HEF  (팀 프로젝트)  
->개발 기간: 2023.11.22 ~ 2023.12.8
+### 📌 1. [핵심 프로젝트](https://github.com/yusuyeon1111/projectBack)
+  >팀해요  (개인 프로젝트)  
+>개발 기간: 25.07.28 ~ 25.09.17
 > front-end & back-end
 >
 
-### 📌 2. [실전 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein.git)
+### 📌 2. [핵심 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject.git)
+  >HEF  (팀 프로젝트)  
+>개발 기간: 23.11.22 ~ 23.12.8
+> front-end & back-end
+>
+
+### 📌 3. [실전 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein.git)
   >LETMEIN  (팀 프로젝트)  
->개발 기간: 2024.02.01 ~ 2024.02.24
+>개발 기간: 24.02.01 ~ 24.02.24
 > front-end & back-end 
 
 
