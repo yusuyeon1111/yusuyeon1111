@@ -61,7 +61,7 @@
 </div>
 
 ## 📌 [my portfolio](https://github.com/yusuyeon1111/portfolio.git)
-### 📌 1. [핵심 프로젝트](https://github.com/yusuyeon1111/projectBack)
+### 📌 1. [개인 프로젝트](https://github.com/yusuyeon1111/projectBack)
   >팀해요  (개인 프로젝트)  
 >개발 기간: 25.07.28 ~ 25.09.17
 > front-end & back-end
